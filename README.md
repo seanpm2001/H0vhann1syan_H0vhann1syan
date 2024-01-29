@@ -4,7 +4,7 @@ I'm a backend-focused Software Engineer working on medical and business automati
 
 #### I code with 🛠️
 
-<p align="center" style="font-family: Verdana, sans-serif;">
+<p style="font-family: Verdana, sans-serif;">
   <img src="./src/icons/AWS-Dark.svg" width="24" height="24" alt="AWS"/>
   <img src="./src/icons/Docker.svg" width="24" height="24" alt="Docker"/>
   <img src="./src/icons/ExpressJS-Dark.svg" width="24" height="24" alt="ExpressJS"/>
@@ -13,7 +13,7 @@ I'm a backend-focused Software Engineer working on medical and business automati
   <img src="./src/icons/Github-Dark.svg" width="24" height="24" alt="GitHub"/>
   <img src="./src/icons/GitLab-Dark.svg" width="24" height="24" alt="GitLab"/>
   <img src="./src/icons/Java-Dark.svg" width="24" height="24" alt="Java"/>
-  <img src="./src/icons/Idea-Dark.svg/" width="24" height="24" alt="Idea"/>
+  <img src="./src/icons/Idea-Dark.svg" width="24" height="24" alt="Idea"/>
   <img src="./src/icons/JavaScript.svg" width="24" height="24" alt="JavaScript"/>
   <img src="./src/icons/Linux-Dark.svg" width="24" height="24" alt="Linux"/>
   <img src="./src/icons/MySQL-Dark.svg" width="24" height="24" alt="MySQL"/>
@@ -29,4 +29,8 @@ I'm a backend-focused Software Engineer working on medical and business automati
   <img src="./src/icons/VSCode-Dark.svg" width="24" height="24" alt="Vs Code"/>
   <img src="./src/icons/TensorFlow-Dark.svg" width="24" height="24" alt="TensorFlow"/>
   <img src="./src/icons/TypeScript.svg" width="24" height="24" alt="TypeScript"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=h0vhann1syan&show_icons=true&theme=darcula&hide=contribs,issues" width="100%" />
 </p>
