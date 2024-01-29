@@ -1,32 +1,36 @@
 ### Hi there 👋
 
-I'm a backend-focused Software Engineer working on medical and business automation projects, primarily on the Node.js platform with JavaScript and TypeScript. I'm also exploring machine learning with frameworks like TensorFlow.js and Brain.js.
+I work as a Software Engineer, primarily engaged with projects in the medical and business automation domains, using the Node.js platform along with JavaScript and TypeScript. I'm currently expanding my skills into machine learning, experimenting with frameworks such as TensorFlow.js and Brain.js.
 
 #### I code with 🛠️
 
-![AWS](./src/icons/AWS-Dark.svg)
-![Docker](./src/icons/Docker.svg)
-![ExpressJS](./src/icons/ExpressJS-Dark.svg)
-![Git](./src/icons/Git.svg)
-![Bash](./src/icons/Bash-Dark.svg)
-![GitHub](./src/icons/Github-Dark.svg)
-![GitLab](./src/icons/GitLab-Dark.svg)
-![Java](./src/icons/Java-Dark.svg)
-![Idea](./src/icons/Idea-Dark.svg)
-![JavaScript](./src/icons/JavaScript.svg)
-![Linux](./src/icons/Linux-Dark.svg)
-![MySQL](./src/icons/MySQL-Dark.svg)
-![NestJS](./src/icons/NestJS-Dark.svg)
-![NodeJS](./src/icons/NodeJS-Dark.svg)
-![PostgreSQL](./src/icons/PostgreSQL-Dark.svg)
-![Postman](./src/icons/Postman.svg)
-![MongoDB](./src/icons/MongoDB.svg)
-![Python](./src/icons/Python-Dark.svg)
-![Redis](./src/icons/Redis-Dark.svg)
-![React](./src/icons/React-Dark.svg)
-![SQLite](./src/icons/SQLite.svg)
-![VSCode](./src/icons/VSCode-Dark.svg)
-![TensorFlow](./src/icons/TensorFlow-Dark.svg)
-![TypeScript](./src/icons/TypeScript.svg)
+<p align="center">
+  <img src="./src/icons/AWS-Dark.svg" alt="AWS"/>
+  <img src="./src/icons/Docker.svg" alt="Docker"/>
+  <img src="./src/icons/ExpressJS-Dark.svg" alt="ExpressJS"/>
+  <img src="./src/icons/Git.svg" alt="Git"/>
+  <img src="./src/icons/Bash-Dark.svg" alt="Bash"/>
+  <img src="./src/icons/Github-Dark.svg" alt="GitHub"/>
+  <img src="./src/icons/GitLab-Dark.svg" alt="GitLab"/>
+  <img src="./src/icons/Java-Dark.svg" alt="Java"/>
+  <img src="./src/icons/Idea-Dark.svg" alt="Idea"/>
+  <img src="./src/icons/JavaScript.svg" alt="JavaScript"/>
+  <img src="./src/icons/Linux-Dark.svg" alt="Linux"/>
+  <img src="./src/icons/MySQL-Dark.svg" alt="MySQL"/>
+  <img src="./src/icons/NestJS-Dark.svg" alt="NestJS"/>
+  <img src="./src/icons/NodeJS-Dark.svg" alt="NodeJS"/>
+  <img src="./src/icons/PostgreSQL-Dark.svg" alt="PostgreSQL"/>
+  <img src="./src/icons/Postman.svg" alt="Postman"/>
+  <img src="./src/icons/MongoDB.svg" alt="MongoDB"/>
+  <img src="./src/icons/Python-Dark.svg" alt="Python"/>
+  <img src="./src/icons/Redis-Dark.svg" alt="Redis"/>
+  <img src="./src/icons/React-Dark.svg" alt="React"/>
+  <img src="./src/icons/SQLite.svg" alt="SQLite"/>
+  <img src="./src/icons/VSCode-Dark.svg" alt="VSCode"/>
+  <img src="./src/icons/TensorFlow-Dark.svg" alt="TensorFlow"/>
+  <img src="./src/icons/TypeScript.svg" alt="TypeScript"/>
+</p>
 
-![Hovhannes's GitHub stats](https://github-readme-stats.vercel.app/api?username=h0vhann1syan&show_icons=true&theme=darcula&hide=contribs,issues)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=h0vhann1syan&show_icons=true&theme=darcula&hide=contribs,issues&include_all_commits=true&show=discussions_answered,prs_merged,prs_merged_percentage" />
+</p>
