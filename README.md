@@ -2,7 +2,7 @@
 
 I work as a Software Engineer, primarily engaged with projects in the medical and business automation domains, using the Node.js platform along with JavaScript and TypeScript. I'm currently expanding my skills into machine learning, experimenting with frameworks such as TensorFlow.js and Brain.js.
 
-#### I code with 🛠️
+#### Technology 🛠️
 
 <p align="center">
   <img src="./src/icons/AWS-Dark.svg" alt="AWS"/>
@@ -17,8 +17,4 @@ I work as a Software Engineer, primarily engaged with projects in the medical an
   <img src="./src/icons/PostgreSQL-Dark.svg" alt="PostgreSQL"/>
   <img src="./src/icons/TensorFlow-Dark.svg" alt="TensorFlow"/>
   <img src="./src/icons/TypeScript.svg" alt="TypeScript"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=h0vhann1syan&show_icons=true&theme=darcula&hide=contribs,issues&include_all_commits=true" />
 </p>
